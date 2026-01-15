@@ -27,6 +27,9 @@ This project integrates several complex layers to ensure high accuracy and low l
 ## 🏗 System Architecture
 For a deep dive into schemas, network diagrams, and detailed logic, see **[architecture.md](architecture.md)**.
 
+## 📄 API Documentation
+For detailed information on every endpoint (Chat, Ingest, Memory, Costs, Train), see **[api_documentation.md](api_documentation.md)**.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
